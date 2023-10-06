@@ -1,4 +1,3 @@
-# MINORPROJECT-OCT-BATCH
 COUNTDOWN TIMER
 Countdown Timer is used to measure whether a task is complete before the time interval or measure how much time a task has taken to complete. There are many real-life examples where it is used. For example, Online Exams, in Sports, etc.
 Let's take a look at what features it will have.
